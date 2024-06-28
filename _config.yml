@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Ahmed
+title:              Docy
 description:        Documentation Jekyll theme.
 lang:               en
 
@@ -57,7 +57,7 @@ disqus:
 google_analytics: #UA—XXXXXXXX-X
 
 plugins:
-  - jekyll-liquify
+  # - jekyll-liquify
   - jekyll-seo-tag
 
 exclude:

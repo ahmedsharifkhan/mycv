@@ -4,8 +4,8 @@
       "title"    : "ChangeLog",
       "category" : "changelog",
       "tags"     : "refference, instruction",
-      "url"      : "/docs/doc-changelog/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-changelog/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -13,8 +13,8 @@
       "title"    : "Image",
       "category" : "content",
       "tags"     : "code, content",
-      "url"      : "/docs/doc-content-image/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-content-image/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -22,8 +22,8 @@
       "title"    : "Tooltips &amp; Direction",
       "category" : "content",
       "tags"     : "popover, content",
-      "url"      : "/docs/doc-content-tooltip/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-content-tooltip/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -31,8 +31,8 @@
       "title"    : "Video",
       "category" : "content",
       "tags"     : "content, direction",
-      "url"      : "/docs/doc-content-video/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-content-video/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -40,8 +40,8 @@
       "title"    : "Accordion",
       "category" : "element",
       "tags"     : "content, element",
-      "url"      : "/docs/doc-element-accordion/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-element-accordion/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -49,8 +49,8 @@
       "title"    : "Source Code",
       "category" : "element",
       "tags"     : "code, source, customize, element",
-      "url"      : "/docs/doc-element-code/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-element-code/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -58,8 +58,8 @@
       "title"    : "Image Hotspots",
       "category" : "element",
       "tags"     : "hotspot, modal, element",
-      "url"      : "/docs/doc-element-hotspots/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-element-hotspots/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -67,8 +67,8 @@
       "title"    : "Image Lightbox",
       "category" : "element",
       "tags"     : "image modal, element",
-      "url"      : "/docs/doc-element-lightbox/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-element-lightbox/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -76,8 +76,8 @@
       "title"    : "Notices",
       "category" : "element",
       "tags"     : "content, element",
-      "url"      : "/docs/doc-element-notice/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-element-notice/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -85,8 +85,8 @@
       "title"    : "Tab",
       "category" : "content",
       "tags"     : "Tabs Widget, Process Tab, element",
-      "url"      : "/docs/doc-element-tab/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-element-tab/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -94,8 +94,8 @@
       "title"    : "Table",
       "category" : "element",
       "tags"     : "content, element",
-      "url"      : "/docs/doc-element-table/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-element-table/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -103,8 +103,8 @@
       "title"    : "Without Banner",
       "category" : "layout",
       "tags"     : "Gradient Banner, Process Tab, layout",
-      "url"      : "/docs/doc-layout-banner-empty/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-layout-banner-empty/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -112,8 +112,8 @@
       "title"    : "Gradient Banner",
       "category" : "layout",
       "tags"     : "Gradient Banner, Process Tab, layout",
-      "url"      : "/docs/doc-layout-banner-gradient/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-layout-banner-gradient/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -121,8 +121,8 @@
       "title"    : "Full Width",
       "category" : "layout",
       "tags"     : "layout, video",
-      "url"      : "/docs/doc-layout-full-width/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-layout-full-width/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -130,8 +130,8 @@
       "title"    : "Left Sidebar",
       "category" : "layout",
       "tags"     : "hotspot, modal, layout",
-      "url"      : "/docs/doc-layout-left-sidebar/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-layout-left-sidebar/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -139,8 +139,8 @@
       "title"    : "Docy Documentation",
       "category" : "Doc",
       "tags"     : "main, documentation",
-      "url"      : "/docs/doc-main/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-main/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -148,8 +148,8 @@
       "title"    : "Can I Use",
       "category" : "reference",
       "tags"     : "reference, instruction",
-      "url"      : "/docs/doc-ref-can-use/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-ref-can-use/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -157,8 +157,8 @@
       "title"    : "Cheetsheet",
       "category" : "reference",
       "tags"     : "reference, code",
-      "url"      : "/docs/doc-ref-cheatsheet/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-ref-cheatsheet/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -166,8 +166,8 @@
       "title"    : "Footnote",
       "category" : "reference",
       "tags"     : "reference, note",
-      "url"      : "/docs/doc-ref-footnote/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-ref-footnote/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -175,8 +175,8 @@
       "title"    : "Keyboard Shortcuts",
       "category" : "reference",
       "tags"     : "reference, instruction",
-      "url"      : "/docs/doc-ref-shortcuts/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-ref-shortcuts/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     },
   
@@ -184,17 +184,25 @@
       "title"    : "Interface Tour",
       "category" : "reference",
       "tags"     : "reference, tour",
-      "url"      : "/docs/doc-ref-tour/",
-      "date"     : "2021-08-28 12:30:05 +0600",
+      "url"      : "/mycv/docs/doc-ref-tour/",
+      "date"     : "2024-06-29 01:13:45 +0600",
       "type"     : "Doc"
     }
   
   ,
   
     {
+      "title"    : "Welcome to Jekyll!",
+      "category" : "",
+      "url"      : "/mycv/welcome-to-jekyll/",
+      "date"     : "2024-06-29 00:58:17 +0600",
+      "type"     : "Blog"
+    } ,
+  
+    {
       "title"    : "Create Conditional Logic Forms &amp; Publish",
       "category" : "Laravel",
-      "url"      : "/post17/",
+      "url"      : "/mycv/post17/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -202,7 +210,7 @@
     {
       "title"    : "How to Use Forms for Enhancing UX In WordPress",
       "category" : "WooCommerce",
-      "url"      : "/post16/",
+      "url"      : "/mycv/post16/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -210,7 +218,7 @@
     {
       "title"    : "Create Conditional Logic Forms &amp; Publish",
       "category" : "Laravel",
-      "url"      : "/post15/",
+      "url"      : "/mycv/post15/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -218,7 +226,7 @@
     {
       "title"    : "10 WordPress Security Issues And How to Fix Them",
       "category" : "WordPress",
-      "url"      : "/post14/",
+      "url"      : "/mycv/post14/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -226,7 +234,7 @@
     {
       "title"    : "70 Best Startups You Need to Watch Out for",
       "category" : "WordPress",
-      "url"      : "/post13/",
+      "url"      : "/mycv/post13/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -234,7 +242,7 @@
     {
       "title"    : "Create Conditional Logic Forms &amp; Publish",
       "category" : "Laravel",
-      "url"      : "/post12/",
+      "url"      : "/mycv/post12/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -242,7 +250,7 @@
     {
       "title"    : "How to Use Forms for Enhancing UX In WordPress",
       "category" : "WooCommerce",
-      "url"      : "/post11/",
+      "url"      : "/mycv/post11/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -250,7 +258,7 @@
     {
       "title"    : "10 WordPress Security Issues And How to Fix Them",
       "category" : "WordPress",
-      "url"      : "/post10/",
+      "url"      : "/mycv/post10/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -258,7 +266,7 @@
     {
       "title"    : "70 Best Startups You Need to Watch Out for",
       "category" : "WordPress",
-      "url"      : "/post09/",
+      "url"      : "/mycv/post09/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -266,7 +274,7 @@
     {
       "title"    : "How to optimize code",
       "category" : "Laravel",
-      "url"      : "/post08/",
+      "url"      : "/mycv/post08/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -274,7 +282,7 @@
     {
       "title"    : "How to Use Forms for Enhancing UX In WordPress",
       "category" : "WooCommerce",
-      "url"      : "/post07/",
+      "url"      : "/mycv/post07/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -282,7 +290,7 @@
     {
       "title"    : "Create A WordPress Multi Step Form With weForms",
       "category" : "Megento",
-      "url"      : "/post06/",
+      "url"      : "/mycv/post06/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -290,7 +298,7 @@
     {
       "title"    : "The Grand Ecommerce Giveaway Worth",
       "category" : "WordPress",
-      "url"      : "/post05/",
+      "url"      : "/mycv/post05/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -298,7 +306,7 @@
     {
       "title"    : "How to Create GDPR Consent Form In WordPress",
       "category" : "Docy",
-      "url"      : "/post04/",
+      "url"      : "/mycv/post04/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -306,7 +314,7 @@
     {
       "title"    : "Create Conditional Logic Forms &amp; Publish",
       "category" : "Laravel",
-      "url"      : "/post03/",
+      "url"      : "/mycv/post03/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -314,7 +322,7 @@
     {
       "title"    : "How to Use Forms for Enhancing UX In WordPress",
       "category" : "WooCommerce",
-      "url"      : "/post02/",
+      "url"      : "/mycv/post02/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } ,
@@ -322,7 +330,7 @@
     {
       "title"    : "Create Conditional Code Forms &amp; Publish",
       "category" : "Laravel",
-      "url"      : "/post01/",
+      "url"      : "/mycv/post01/",
       "date"     : "2021-08-21 00:00:00 +0600",
       "type"     : "Blog"
     } 
